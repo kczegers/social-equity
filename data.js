@@ -70,7 +70,7 @@ let data = [
   },
 	{
 		"location": "Massachusetts",
-		"eligibility": "1. Residence in an area of disproportionate impact for at least five of the past 10 years and an income that does bot exceed 400% of the Federal Poverty Level; 2. A past deug conviction and residence in Massachusetts for at least the preceding 12 months; 3. Married to or the child of a person with a drug conviction and residence in Massachusetts for at thes the preceding 12 months",
+		"eligibility": "1. Residence in an area of disproportionate impact for at least five of the past 10 years and an income that does bot exceed 400% of the Federal Poverty Level; 2. A past drug conviction and residence in Massachusetts for at least the preceding 12 months; 3. Married to or the child of a person with a drug conviction and residence in Massachusetts for at thes the preceding 12 months",
 		"details": "Provides professional training, technical assistace, and mentoring with the mission to encaourage full participation by people from communities disproportionately harmed by marijuana prohibition by reducing barriers to entry.",
 		"link": "https://mass-cannabis-control.com/equityprograms-2/#tab-id-2"
   },
