@@ -6,7 +6,7 @@ let data = [
 		"location": "Coachella, CA",
 		"eligibility": "Classification 1. A current or former resident of the City of Coachella who\npreviously resided or currently resides in a low-income household and was\neither: a) arrested or convicted for a cannabis related crime in the City of\nCoachella between the years of 1980 and 2011; or is b) an immediate\nfamily member of an individual in subsection a of Classification 1 or\nClassification 2. Classification 2. A current or former resident of the City of Coachella who\nhas lived in a low-income household for at least five (5) years, between\nthe years of 1908 and 2018. Annual family income must be at or below 80\npercent of the Area Median Income (AMI) and net worth below $250,000.",
 		"details": "Includes business plan development, mentoring, assistance securing capital, assistance with criminal records expungement, marketing/social media, regulatory compliance, permit fee waivers",
-		"link": "https://www.bcc.ca.gov/licensees/socequity_coachella.pdf"
+		"link": "https://www.bcc.ca.gov/licensees/socequity_coachela.pdf"
   },
 	{
 		"location": "Humboldt County, CA",

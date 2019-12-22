@@ -44,9 +44,9 @@
       <!-- templating occurs here -->
       <script type="text/html" id="place_template">
         <p>You selected <strong><%= place.location %></strong></p>
-        <p>Eligibility Requirements: <strong><%= place.eligibility %></strong></p>
-        <p>Program Details: <strong><%= place.details %></strong></p>
-        <p>Learn more: <strong><%= place.link %></strong></p>
+        <p><strong>Eligibility Requirements:</strong> <%= place.eligibility %></p>
+        <p><strong>Program Details:</strong> <%= place.details %></p>
+        <p><strong>Learn more:</strong> <a href= " <%=place.link %> "> Policy </a> </p>
       </script>
 
     </div>
