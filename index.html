@@ -43,10 +43,10 @@
 
       <!-- templating occurs here -->
       <script type="text/html" id="place_template">
-        <p>You selected <strong><%= place.location %></strong></p>
-        <p><strong>Eligibility Requirements:</strong> <%= place.eligibility %></p>
-        <p><strong>Program Details:</strong> <%= place.details %></p>
-        <p><strong>Learn more:</strong> <a href= " <%=place.link %> "> Policy </a> </p>
+        <p class= "place_name">You selected <strong><%= place.location %></strong></p>
+        <p class= "info_text"><strong>Eligibility Requirements:</strong> <%= place.eligibility %></p>
+        <p class= "info_text"><strong>Program Details:</strong> <%= place.details %></p>
+        <p class= "info_text"><strong>Learn more:</strong> <a href= " <%=place.link %> "> Policy </a> </p>
       </script>
 
     </div>

@@ -16,7 +16,7 @@ let data = [
   },
 	{
 		"location": "Long Beach, CA",
-		"eligibility": "Annuual family income at or below 80% of the area median income and a net worth below $250,000 and: has lived in a lower-income census tract for at least three years; or was arrested for a crime relating to the sale, possession, use, or cultivation of cannabis in Long Beach prior to Nov. 8, 2016; is a city resident currently receiving unemployment benefits",
+		"eligibility": "Annual family income at or below 80% of the area median income and a net worth below $250,000 and: has lived in a lower-income census tract for at least three years; or was arrested for a crime relating to the sale, possession, use, or cultivation of cannabis in Long Beach prior to Nov. 8, 2016; is a city resident currently receiving unemployment benefits",
 		"details": "Includes expedited permit application review, permit compliance assistance, cultivation business license tax deferrals during the first year, expedited buildinf plan check review, fee waivers",
 		"link": "http://longbeach.legistar.com/View.ashx?M=F&ID=6367362&GUID=58CE120C-2A55-45B6-934F-D283823AF1B3"
   },
